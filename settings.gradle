@@ -1,2 +1,4 @@
 rootProject.name = "Calculator"
 include ':app'
+
+//my settings
